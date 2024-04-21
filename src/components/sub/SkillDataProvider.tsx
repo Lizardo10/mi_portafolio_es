@@ -2,7 +2,8 @@
 
 import React from 'react'
 import {motion} from 'framer-motion'
-import { useInView } from 'react-intersection-observer'
+
+import { useInView } from 'react-intersection-observer';
 import Image from 'next/image';
 
 interface Props {
