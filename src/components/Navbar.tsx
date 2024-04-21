@@ -30,7 +30,7 @@ const Navbar = () => {
             <Link href="#projects" className="cursor-pointer">
               Proyectos
             </Link>
-            <Link target="_blank" href="/mycv.pdf" className="cursor-pointer">
+            <Link target="_blank" href="/CVLizardoPerez.pdf" className="cursor-pointer">
               MyCV
             </Link>
           </div>
