@@ -84,7 +84,7 @@ export default function Page() {
           <h2 className="text-3xl font-semibold mb-2">
           Desarrollador Full Stack (Remoto)  @ <span className="text-blue-600">Alpha Roofing Products</span>
           </h2>
-          <p className="text-gray-600 mb-4">Enero 2024 - Presente</p>
+          <p className="text-gray-600 mb-4">Enero 2024 - Abril 2024</p>
           <ul className="list-disc pl-5 mb-8">
           <p className="mt-2 text-lg">
                         - Crear y gestionar APIs con Nestjs
